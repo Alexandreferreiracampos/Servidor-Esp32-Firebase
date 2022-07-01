@@ -4,7 +4,7 @@
 #include <ArduinoJson.h>                   
 
 #define WIFI_SSID "Alexandre"                   
-#define WIFI_PASSWORD "91906245"         
+#define WIFI_PASSWORD "********"         
 #define FIREBASE_HOST "**************************"
 #define AUTOMACAO_HOST "192.168.0.200"     
 #define FIREBASE_AUTH "**************************"   
