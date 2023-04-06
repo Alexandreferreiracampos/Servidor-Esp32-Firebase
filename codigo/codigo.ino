@@ -6,9 +6,9 @@
 
 #define WIFI_SSID "Alexandre"                   
 #define WIFI_PASSWORD "91906245"         
-#define FIREBASE_HOST "automacao-smarthome-default-rtdb.firebaseio.com"
+#define FIREBASE_HOST "***********"
 #define AUTOMACAO_HOST "192.168.0.200"     
-#define FIREBASE_AUTH "4TSGAJ30yNAYgGmDX6e0ownR88zF4PogqlV4LEyO"   
+#define FIREBASE_AUTH "***********"   
 
 hw_timer_t *timer = NULL;
 
